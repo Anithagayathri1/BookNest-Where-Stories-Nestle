@@ -79,4 +79,4 @@ Once both servers are running:
 
  ## Documentation & Demo Video
  - 📽️ **Demo Video**: [watch here] (https://drive.google.com/file/d/16mLxrRt3TbonobTG-Ovt-wt7EWPx0hTx/view?usp=share_link)
-- 📄 **Documentation**:[watch here]
+- 📄 **Documentation**:[watch here] https://1drv.ms/w/c/cd862730c36d7c3a/Ee3NHM0Oc0VOjSaqJtsr8YYBuu5lyn8gfzQ2hswaxHVWtA?e=b2dQ9R
